@@ -1,0 +1,27 @@
+# Site settings
+# Run with jekyll serve
+couple: Christopher and Stephenie
+title: Chris + Steph's Wedding
+email: clalansingh.sprokopec.wedding@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Wedding website for Chris and Steph
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+# User setting
+owner: Christopher Lalansingh
+email: clalansingh.sprokopec.wedding@gmail.com
+facebook_username:
+twitter_username:
+github_username: chrisandstephwedding
+address:
+  - line: 2500 Kossuth Rd, Cambridge, ON, N3H 4R7
+  # Feel free to add more lines here
+telephone:
+copyright:
+
+# API settings
+google_api_key:  AIzaSyDE8xR6nbYuMXuzZWhW_2vox873R0rR8_c
+
+# Build settings
+markdown: kramdown
